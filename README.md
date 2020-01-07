@@ -1,7 +1,7 @@
 # RCS_ML_01_20
 RCS Data Science and Machine Learning section January 2020 in conjuction with Accenture
 
-##Course Contents (50h)
+## Course Contents (50h)
 
 ### Workplace Organization(~2h)
 * Git version control / command line
