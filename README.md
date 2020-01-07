@@ -8,7 +8,7 @@ RCS Data Science and Machine Learning section January 2020 in conjuction with Ac
 * Jupyter / Anaconda environment for Data Science
 * Text Editors
 
-###Python (~10h) 
+### Python (~10h) 
 * Built in Data Types
 * Control Structures
 * Functions and Classes
