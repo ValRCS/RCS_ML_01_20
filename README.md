@@ -1,6 +1,22 @@
 # RCS_ML_01_20
 RCS Data Science and Machine Learning section January 2020 in conjuction with Accenture
 
+## Binder(cloud hosted Jupyter notebooks) Beta
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/RCS_ML_01_20/master)
+
+## Course Plan
+
+## Goal
+Build a complete data analysis pipeline using Python ecosystem
+
+* Define the problem
+* Gather the raw data
+* Process (clean) the data
+* Explore
+* Analysis (apply models, make predictions)
+* Reports and Visual Results in a form understandable to stakeholders
+
+
 ## Course Contents (50h)
 
 ### Workplace Organization(~2h)
@@ -19,6 +35,7 @@ RCS Data Science and Machine Learning section January 2020 in conjuction with Ac
 
 ### external Numerical Libraries (~8h)
 * NumPy/Pandas
+* SciPy.Stats
 
 ### noSQL databases       noSQL: Hbase, MongoDB, Cassandra (~8h)
 
