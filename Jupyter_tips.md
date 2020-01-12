@@ -1,11 +1,13 @@
 # Jupyter Documentation
 
 * https://jupyter.readthedocs.io/en/latest/
-[Binder for Introductory Notebook](https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb)
+
 
 
 ## Try Jupyter Online
 * https://jupyter.org/try
+
+[Binder for Introductory Notebook](https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb)
 
 
 ## Jupyter tips
