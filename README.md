@@ -46,6 +46,9 @@ Build a complete data analysis pipeline using Python ecosystem
 * Graph db, e.g., Neo4j
 [some practical tasks on each]
 
+## Projects
+* get data, transform data
+
 ### Machine Learning using Scikit-Learn, Keras(w/ Tensorflow), PyTorch ~12h
 
 * Data Preperation - preprocessing, tidydata
