@@ -8,3 +8,7 @@ Windows 10 (probably Linux too)
 Administrator Anaconda Prompt
 
     conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
+    
+## Tutorial for those who know NumPy
+
+https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
