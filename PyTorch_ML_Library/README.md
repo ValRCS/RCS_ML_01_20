@@ -16,3 +16,7 @@ https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 ### Using Google Colab with Pytorch
 
 * https://pytorch.org/tutorials/beginner/colab.html
+
+### Videos on Neural Nets in General
+
+* https://www.youtube.com/watch?v=aircAruvnKk
