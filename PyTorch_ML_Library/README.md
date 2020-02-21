@@ -12,3 +12,7 @@ Administrator Anaconda Prompt
 ## Tutorial for those who know NumPy
 
 https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+
+### Using Google Colab with Pytorch
+
+* https://pytorch.org/tutorials/beginner/colab.html
