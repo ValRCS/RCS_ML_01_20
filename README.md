@@ -4,6 +4,9 @@ RCS Data Science and Machine Learning section January 2020 in conjuction with Ac
 ## Binder(cloud hosted Jupyter notebooks) Beta
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ValRCS/RCS_ML_01_20/master)
 
+## Google Colab 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ValRCS/RCS_ML_01_20) - open all of current repo
+
 ## Course Plan
 
 ## Goal
