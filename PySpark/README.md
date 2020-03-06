@@ -4,6 +4,8 @@ Apache Spark™ is a unified analytics engine for large-scale data processing.
 
 ![SPARK](https://spark.apache.org/images/spark-logo-trademark.png)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ValRCS/RCS_ML_01_20/blob/master/PySpark/Neanderthal's_Guide_to_Apache_Spark_2020.ipynb) - PySparkGuide
+
 
 
 ## Getting Started with Spark
