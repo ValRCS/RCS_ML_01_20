@@ -1,4 +1,4 @@
-# Cassandra - is a scalabale column NoSQL database
+# Cassandra - is a scalable column NoSQL database
 
  Used for truly big data at CERN, Comcast, eBay, GitHub, GoDaddy, Hulu, Instagram, Intuit, Netflix, Reddit, The Weather Channel
 
