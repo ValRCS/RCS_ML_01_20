@@ -14,6 +14,8 @@
 ![CAP](http://cassandra.apache.org/doc/latest/_images/Figure_1_guarantees.jpg)
 
 ## Hosted Cassandra (hosting yourself not recommended because of technical difficulties)
+* ![Aiven.IO](https://aiven.io/assets/img/aiven-logo.png)
+* [Aiven.IO](https://aiven.io/) - hosted using many different providers below, free 1 month credit
 * https://help.aiven.io/en/articles/1803299-getting-started-with-aiven-for-cassandra
 
 ## Amazon Managed Cassandra Service (Cassandra falls under paid!)
