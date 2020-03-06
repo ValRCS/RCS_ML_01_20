@@ -72,3 +72,9 @@ Foreign keys or referential integrity.
 
 ## CQL reference
 * https://docs.datastax.com/en/dse/6.0/cql/cql/cql_reference/cqlReferenceTOC.html
+
+
+## Cassandra alternative (same syntax for CQL but different engine)
+![Scylla](https://upload.wikimedia.org/wikipedia/en/2/20/Scylla_the_sea_monster.png)
+* https://en.wikipedia.org/wiki/Scylla_(database)
+* https://www.scylladb.com/
