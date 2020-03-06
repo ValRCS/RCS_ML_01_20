@@ -43,6 +43,8 @@ Foreign keys or referential integrity.
 * http://cassandra.apache.org/doc/latest/architecture/guarantees.html#what-is-cap
 ![CAP](http://cassandra.apache.org/doc/latest/_images/Figure_1_guarantees.jpg)
 
+* https://robertgreiner.com/cap-theorem-revisited/
+
 ## Hosted Cassandra (hosting yourself not recommended because of technical difficulties)
 * ![Aiven.IO](https://aiven.io/assets/img/aiven-logo.png)
 * [Aiven.IO](https://aiven.io/) - hosted using many different providers below, free 1 month credit
