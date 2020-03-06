@@ -35,3 +35,6 @@
 
 ## SQL vs CQL
 * https://www.ktexperts.com/cassandra-similarities-and-differences-between-the-sql-and-cql-languages/
+
+## CQL reference
+* https://docs.datastax.com/en/dse/6.0/cql/cql/cql_reference/cqlReferenceTOC.html
