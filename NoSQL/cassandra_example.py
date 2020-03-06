@@ -8,6 +8,7 @@ from cassandra.policies import DCAwareRoundRobinPolicy
 
 
 def cassandra_example(args):
+    print(args)
     auth_provider = PlainTextAuthProvider(args.username, args.password)
     ssl_options = {"ca_certs": args.ca_path, "cert_reqs": ssl.CERT_REQUIRED}
     with Cluster([args.host], port=args.port, ssl_options=ssl_options, auth_provider=auth_provider,
