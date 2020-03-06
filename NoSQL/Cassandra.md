@@ -6,6 +6,36 @@
 
 * http://cassandra.apache.org/
 
+## Features
+
+Cassandra provides the Cassandra Query Language (CQL), an SQL-like language, to create and update database schema and access data. CQL allows users to organize data within a cluster of Cassandra nodes using:
+
+* **Keyspace**: defines how a dataset is replicated, for example in which datacenters and how many copies. Keyspaces contain tables.
+* **Table**: defines the typed schema for a collection of partitions. Cassandra tables have flexible addition of new columns to tables with zero downtime. Tables contain partitions, which contain partitions, which contain columns.
+* **Partition**: defines the mandatory part of the primary key all rows in Cassandra must have. All performant queries supply the partition key in the query.
+* **Row**: contains a collection of columns identified by a unique primary key made up of the partition key and optionally additional clustering keys.
+* **Column**: A single datum with a type which belong to a row.
+
+### CQL supports numerous advanced features over a partitioned dataset such as:
+
+* Single partition lightweight transactions with atomic compare and set semantics.
+* User-defined types, functions and aggregates
+* Collection types including sets, maps, and lists.
+* Local secondary indices
+* (Experimental) materialized views
+
+Cassandra explicitly chooses not to implement operations that require cross partition coordination as they are typically slow and hard to provide highly available global semantics. For example 
+
+### Cassandra does not support:
+
+* Cross partition transactions
+* Distributed joins
+* Foreign keys or referential integrity.
+
+### Cross partition transactions
+Distributed joins
+Foreign keys or referential integrity.
+
 ## Getting Started
 * http://cassandra.apache.org/doc/latest/getting_started/
 
