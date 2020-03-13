@@ -1,7 +1,8 @@
 # SCALA
 
 * https://www.scala-lang.org/
-![SCALA](https://www.scala-lang.org/resources/img/frontpage/scala-logo-white@2x.png)
+
+![SCALA](https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Scala_logo.png/400px-Scala_logo.png)
 
 ## The Scala Programming Language
 Scala combines object-oriented and functional programming in one concise, high-level language
