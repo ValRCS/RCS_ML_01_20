@@ -10,3 +10,10 @@ Scala combines object-oriented and functional programming in one concise, high-l
 ## Interactive web based SCALA sandbox
 
 * https://scastie.scala-lang.org/
+
+
+## Learning Scala
+
+### Best Book on Scala
+![Programming in Scala](https://booksites.artima.com/images/pins3Cover185x240.gif)
+* https://booksites.artima.com/programming_in_scala_3ed
