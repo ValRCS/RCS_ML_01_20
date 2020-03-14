@@ -17,3 +17,7 @@ Scala combines object-oriented and functional programming in one concise, high-l
 ### Best Book on Scala
 ![Programming in Scala](https://booksites.artima.com/images/pins3Cover185x240.gif)
 * https://booksites.artima.com/programming_in_scala_3ed
+
+## SBT - Scala Build Tool
+
+* https://docs.scala-lang.org/getting-started/intellij-track/building-a-scala-project-with-intellij-and-sbt.html
